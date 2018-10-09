@@ -1,11 +1,11 @@
 # Readme
 Trustnote Readme.
 
-- Welcome to submit the bug of trustnote, please click [here](https://github.com/trustnote/trustnote-common/issues).
-- Welcome to submit the bug of trustnote-hub, please click [here](https://github.com/trustnote/trustnote-hub/issues).
-- Welcome to submit the bug of trustnote-wallet, please click [here](https://github.com/trustnote/trustnote-wallet/issues).
-- Welcome to submit the bug of trustnote-witness, please click [here](https://github.com/trustnote/trustnote-witness/issues).
-- Welcome to submit the bug of trustnote-headless, please click [here](https://github.com/trustnote/trustnote-headless/issues).
+- Submitying bugs for trustnote, please click [here](https://github.com/trustnote/trustnote-common/issues).
+- Submitying bugs for trustnote-hub, please click [here](https://github.com/trustnote/trustnote-hub/issues).
+- Submitying bugs for trustnote-wallet, please click [here](https://github.com/trustnote/trustnote-wallet/issues).
+- Submitying bugs for trustnote-witness, please click [here](https://github.com/trustnote/trustnote-witness/issues).
+- Submitying bugs for trustnote-headless, please click [here](https://github.com/trustnote/trustnote-headless/issues).
 
 ## Repositories
 
